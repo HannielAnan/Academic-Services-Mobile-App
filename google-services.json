@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293071239496",
+    "project_id": "academic-expert",
+    "storage_bucket": "academic-expert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293071239496:android:98e0d23250ed6ffbdf5b7d",
+        "android_client_info": {
+          "package_name": "com.academicexpert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkcMPg5I2ZFnF_D-HJvVzfZNlkWoLSxZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
